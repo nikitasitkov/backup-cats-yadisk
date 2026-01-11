@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# IDE stuff
+.idea/
+.vscode/
+
+# Result file
+result.json
